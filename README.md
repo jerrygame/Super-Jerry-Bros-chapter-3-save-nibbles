@@ -6,5 +6,7 @@
 Tutorial
 
 1. download the swf file above
+
 2. just drag it on your browser
+
 3.enjoy :)
