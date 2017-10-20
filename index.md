@@ -1,4 +1,4 @@
-## jerry Game
+## Jerry Game
 
 [Download it here](https://github.com/jerrygame/Super-Jerry-Bros-chapter-3-save-nibbles/releases/download/game/super-jerry-chapter-1-save-nibbles.swf)
 
